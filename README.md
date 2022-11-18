@@ -18,6 +18,6 @@ ESP32 and WCS1800 based photovoltaic powermeter
 * SCL - GPIO 22
 * address - 0x48
 #### Development Hardware
-![IMAGE ALT TEXT HERE](https://www.dorstel.de/github/hallometer_a_v1.0.png)
+![IMAGE ALT TEXT HERE](https://www.dorstel.de/github/halloMeter_a_v1.0.png)
 #### Web UI Screenshot
-![IMAGE ALT TEXT HERE](https://www.dorstel.de/github/hallometer_b_v1.0.png)
+![IMAGE ALT TEXT HERE](https://www.dorstel.de/github/halloMeter_b_v1.0.png)
